@@ -25,3 +25,7 @@ pip install numpy
 - Pinch (index finger + thumb close) → Activate BOOST
 - Open hand (normal) → Normal speed
 
+## Output
+
+![HandiCar Screenshot](HandiCar/caroutput.png)
+
